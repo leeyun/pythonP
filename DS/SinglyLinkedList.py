@@ -7,7 +7,6 @@
     5. insert
     6. remove
 """
-
 class Node:
     def __init__(self, data = 0):
         self.data = data
